@@ -1,9 +1,9 @@
 ### Hi there I'm Pablo 👋
 
-
-
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pablobravo73&layout=compact&show_icons=true&theme=transparent)
+
+
+![](https://komarev.com/ghpvc/?username=pablobravo73)
 
 
 <!--
